@@ -1,0 +1,10 @@
+export const ADD_SONG = 'ADD_SONG';
+export const DELETE_SONG = 'DELETE_SONG';
+export const PLAY_SONG = 'PLAY_SONG';
+export const PAUSE_SONG = 'PAUSE_SONG';
+export const NEXT_SONG = 'NEXT_SONG';
+export const PREVIOUS_SONG = 'PREVIOUS_SONG';
+export const SET_VOLUME = 'SET_VOLUME';
+export const SET_PROGRESS = 'SET_PROGRESS';
+export const TOGGLE_SIDEBAR = 'TOGGLE_SIDEBAR';
+export const SET_CURRENT_SONG = 'SET_CURRENT_SONG';
